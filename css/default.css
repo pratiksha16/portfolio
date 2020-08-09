@@ -641,7 +641,7 @@ img.pull-left {
 
 /*  6. Buttons  --------------------------------------------------------- */
 
-/*.button,
+.button,
 .button:visited,
 button,
 input[type="submit"],
@@ -699,7 +699,7 @@ input[type="button"].full-width {
   padding-right: 0 !important;
   text-align: center;
 }
-*/
+
 /* Fix for odd Mozilla border & padding issues */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
