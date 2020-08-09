@@ -158,11 +158,6 @@ pre {
   word-wrap: break-word;
 }
 
-blockquote,
-q {
-  quotes: &#8220 &#8220;
-}
-
 blockquote:before,
 blockquote:after,
 q:before,
@@ -704,7 +699,7 @@ input[type="button"].full-width {
   padding-right: 0 !important;
   text-align: center;
 }
-
+*/
 /* Fix for odd Mozilla border & padding issues */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
@@ -731,7 +726,7 @@ select {
   margin: 0 0 24px 0;
   border: 0;
   outline: none;
-  vertical-align: middle;
+
   min-width: 225px;
   max-width: 100%;
   font-size: 15px;

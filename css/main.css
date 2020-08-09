@@ -576,7 +576,7 @@ select {
   padding: 1.5rem 0;
   border: 0;
   outline: none;
-  vertical-align: middle;
+
   color: #313131;
   font-family: "poppins-regular", sans-serif;
   font-size: 1.5rem;
@@ -1779,7 +1779,7 @@ ul#nav li.current a {
 .intro-info img {
   height: 19rem;
   width: 15rem;
-  border-radius: 90%;
+  border-radius: 40%;
   margin: 0.9rem 0 0 0;
   float: left;
 }
