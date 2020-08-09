@@ -739,7 +739,6 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-  background: #ff0077;
   color: #000000;
   outline: 0;
 }
@@ -1149,7 +1148,7 @@ input::-moz-focus-inner {
 }
 .section-intro h5 {
   color: #ff0077;
-  font-size: 1.6rem;
+  font-size: 28px;
   line-height: 1.875;
   margin-bottom: 0.3rem;
   letter-spacing: 0.4rem;
@@ -1769,6 +1768,7 @@ ul#nav li.current a {
 }
 #about .section-intro {
   margin-bottom: 3rem;
+  font-family: "poppins-bold", sans-serif;
 }
 
 .intro-info {
@@ -1786,7 +1786,7 @@ ul#nav li.current a {
 
 .intro-info .lead {
   text-align: left;
-  padding-left: 13rem;
+  padding-left: 15rem;
 }
 
 .about-content {
@@ -1794,6 +1794,7 @@ ul#nav li.current a {
   text-align: left;
   max-width: 850px;
   margin-bottom: 3.6rem;
+  padding-left: 3rem;
 }
 .about-content h3 {
   font-family: "poppins-bold", sans-serif;
@@ -1905,6 +1906,7 @@ ul#nav li.current a {
 }
 #resume .resume-header h2 {
   color: #ff0077;
+  font-family: "poppins-bold", sans-serif;
 }
 
 #resume .resume-timeline {
@@ -1965,6 +1967,7 @@ ul#nav li.current a {
 #resume .timeline-content {
   margin-left: 35%;
   padding-left: 60px;
+  text-align: left;
 }
 #resume .timeline-content h4 {
   position: relative;

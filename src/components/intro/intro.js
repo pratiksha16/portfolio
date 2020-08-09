@@ -35,10 +35,7 @@ export default class Header extends Component {
               </a>
             </li>
             <li>
-              <a
-                href="https://drive.google.com/file/d/1yACSJlK1O3xGxb2XJqtwfa_SW43udlAo/view?usp=sharing"
-                title="Resume"
-              >
+              <a href="/resume.pdf" title="Resume">
                 <i className="fa fa-file-pdf-o" />
               </a>
             </li>

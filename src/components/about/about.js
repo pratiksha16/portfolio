@@ -78,17 +78,6 @@ export default class Header extends Component {
               {/* /skill-bars */}
             </div>
           </div>
-          <div className="row button-section">
-            <div className="col-twelve">
-              <a
-                href="https://drive.google.com/file/d/1yACSJlK1O3xGxb2XJqtwfa_SW43udlAo/view?usp=sharing"
-                title="Resume"
-                className="button button-primary"
-              >
-                Resume
-              </a>
-            </div>
-          </div>
         </section>
       </React.Fragment>
     );
