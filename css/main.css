@@ -1563,7 +1563,8 @@ ul#nav li.current a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-  background: #151515 url(../images/laptop.jpg) no-repeat center bottom;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../images/laptop.jpg) no-repeat center bottom;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
